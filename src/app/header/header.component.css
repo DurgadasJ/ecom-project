@@ -1,0 +1,36 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: darkseagreen;
+}
+.nav div{
+    padding-top: 15px;
+    padding: 1px;
+    position: relative;
+    overflow: hidden;
+    width: 300px;
+}
+.nav h1{
+    color: black;
+    margin-top: auto;
+    font-size: 40px;
+    }
+.nav ul{
+    display: inline-flex;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.nav li{
+    padding-left: 15px;
+    padding-top: 15px;
+}
+
+.nav button {
+    padding: 1px; /* Space around the button */
+    background-color: #007BFF; /* Background color */
+    border-radius: 4px; /* Rounded corners */
+    box-shadow: 0 3px 6px rgba(0, 0, 0, 0.1); /* Shadow effect */
+}
