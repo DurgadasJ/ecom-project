@@ -1,0 +1,58 @@
+{
+  "seller": [
+    {
+      "id": "994f",
+      "name": "anil sahu",
+      "email": "sahuan@gmail.com",
+      "password": "Anil08sahu"
+    },
+    {
+      "id": "75b9",
+      "name": "Sachin Tekriwal",
+      "email": "tekriwalsachin@gmail.com",
+      "password": "SachinTekriwal95"
+    },
+    {
+      "id": "47fe",
+      "name": "Rajesh Swami",
+      "email": "swamiraj@gmail.com",
+      "password": "RajesSwami552"
+    },
+    {
+      "id": "240e",
+      "username": "Sarvesh Malviya",
+      "password": "MalviyaSarvesh10",
+      "email": "malviya_sarvesh@gmail.com"
+    },
+    {
+      "id": "c518",
+      "username": "Vivek Bhosle",
+      "password": "Bhosale123",
+      "email": "vivek_bhosale@gmail.com"
+    },
+    {
+      "id": "5694",
+      "username": "Lokesh Kshtriya",
+      "password": "kshtriyalokesh099",
+      "email": "lokesh_kshtriya@gmail.com"
+    },
+    {
+      "id": "e106",
+      "username": "John Maxwell",
+      "password": "johnmax@25",
+      "email": "maxjohn@gmail.com"
+    },
+    {
+      "id": "c958",
+      "username": "Shubham",
+      "password": "Deshmukh",
+      "email": "deshmukh_shubham@gamil.com"
+    },
+    {
+      "id": "b508",
+      "username": "Stavan",
+      "password": "Phirke",
+      "email": "phirkestavan_d@gmail.com"
+    }
+  ]
+}
