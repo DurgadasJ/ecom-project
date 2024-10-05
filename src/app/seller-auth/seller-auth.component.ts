@@ -15,14 +15,13 @@ import { SignUp } from  '../data-type';
 })
 export class SellerAuthComponent {
     constructor(private seller:SellerService, private router:Router){}
-    ngOnInit(): void{}
+
+    ngOnInit():void{
+      this.seller.reloadSeller()
+    }
 
     signUp(data: SignUp): void {
       //'Form Submitted!',
-      this.seller.userSignUp(data).subscribe((result)=>{
-        if(result){
-        this.router.navigate(['app-seller-home']);
-        }
-      });
+      this.seller.userSignUp(data)
     }
 }
